@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello DeadBush Here 👋
 
-<!--
-**deadbushmc/deadbushmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm a Php and PocketMine-Mp Plugin Developer
 
-Here are some ideas to get you started:
+# If you use my plugins and like them make sure to donate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.paypal.me/deadbushnetric" 
+target="htps://paypal.me/deadbushnetric">
+<img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" alt="PayPal this" 
+title="PayPal – The safer, easier way to pay online!" border="0" />
+</a>
+
+# My Socials
+
+- <a href="https://twitter.com/deadbushmc">Twitter</a>
+
+- <a href="https://youtube.com/deadbush">YouTube</a>
+
+- <a href="https://discord.gg/q7fKBTfeYp">Discord</a>
